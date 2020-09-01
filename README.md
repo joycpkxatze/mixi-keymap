@@ -5,10 +5,8 @@ In my case, I code the keymap according to my needs. I'll update the code as soo
 
 Links:
 
--Mixi Macropad project by ohchiko
+-Mixi Macropad project by ohchiko 
+(https://github.com/ohchiko/mixi)
 
-https://github.com/ohchiko/mixi
-
--QMK Docs
-
-https://docs.qmk.fm/#/
+-QMK Docs 
+(https://docs.qmk.fm/#/)
